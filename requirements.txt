@@ -1,0 +1,13 @@
+cartopy
+cmocean
+geopandas
+matplotlib
+netCDF4
+numpy
+pandas
+regionmask
+scikit-learn
+scipy
+statsmodels
+tensorflow
+xarray

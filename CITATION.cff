@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "Indian Monsoon EPCP Classification Using CNNs"
+type: software
+authors:
+  - family-names: "R."
+    given-names: "Dileepkumar"
+repository-code: "https://github.com/dileepkunjaai/Indian-Monsoon-EPCP-CNN"
+abstract: >-
+  CNN, data-processing, and plotting scripts used to identify extreme
+  southwest monsoon circulation patterns over homogeneous precipitation zones
+  of India.
